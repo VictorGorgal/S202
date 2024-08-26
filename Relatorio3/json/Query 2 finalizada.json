@@ -1,0 +1,78 @@
+[
+    {
+        "_id": {
+            "$oid": "66ccdf7c505aa5689f9f40d7"
+        },
+        "id": 102,
+        "num": "102",
+        "name": "Exeggcute",
+        "img": "http://www.serebii.net/pokemongo/pokemon/102.png",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "height": "0.41 m",
+        "weight": "2.5 kg",
+        "candy": "Exeggcute Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.78,
+        "avg_spawns": 78,
+        "spawn_time": "09:09",
+        "multipliers": [
+            2.7,
+            3.18
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Ghost",
+            "Dark"
+        ],
+        "next_evolution": [
+            {
+                "num": "103",
+                "name": "Exeggutor"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "66ccdf7c505aa5689f9f40d8"
+        },
+        "id": 103,
+        "num": "103",
+        "name": "Exeggutor",
+        "img": "http://www.serebii.net/pokemongo/pokemon/103.png",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "height": "2.01 m",
+        "weight": "120.0 kg",
+        "candy": "Exeggcute Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.014,
+        "avg_spawns": 1.4,
+        "spawn_time": "12:34",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Ghost",
+            "Dark"
+        ],
+        "prev_evolution": [
+            {
+                "num": "102",
+                "name": "Exeggcute"
+            }
+        ]
+    }
+]
